@@ -1,1 +1,0 @@
-ami-01e78c5619c5e68b4 (64-bit x86) / ami-0d525a2ffb25fb19c (64-bit Arm)
